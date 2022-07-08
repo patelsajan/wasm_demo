@@ -3,3 +3,9 @@ web assembly is a low level assembly like language that can be compiled from lan
 
 web assembly is being created as an open standard inside the W3C web assembly community group, with the following goals.
 
+1. be fast, efficient and protable.
+2. be readable and debuggable.
+3. keep secure.
+4. don't break the web.
+
+
